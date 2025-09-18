@@ -69,3 +69,10 @@ layout: default
 
 　　最后啰嗦一句，网络很重要，但也别让它完全绑架了旅行。偶尔断开连接，抬头看看查理大桥上的日落，那才是来捷克真正的意义，你说呢？
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Czech Republic SIM 卡购买与激活指南](https://faciylike.github.io/czech-republic-sim-guides)
